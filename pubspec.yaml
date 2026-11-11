@@ -1,0 +1,11 @@
+name: voxloc
+description: "Pure Dart game localization with CLDR-style pluralization rules, parameter interpolation, RFC-4180 CSV & nested JSON tables, fallback chains, and glyph prewarm extraction."
+version: 0.1.0
+repository: https://github.com/soulwax/voxloc
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dev_dependencies:
+  lints: ^3.0.0
+  test: ^1.25.0
